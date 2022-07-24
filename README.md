@@ -6,9 +6,7 @@
 ### 🍎 **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
 #### iOS Project
 * iOS APP **[OurRepo]** : As Planner, Programmer, UI/UX Designer
-* VISIT: <https://github.com/commitcomplete/OurRepo-nc1>.   
-* iOS APP **[OurRepo]** : As Planner, Programmer, UI/UX Designer, SFX Designer
-* VISIT: <https://github.com/commitcomplete/OurRepo-nc1>.   
+* VISIT: <https://github.com/commitcomplete/OurRepo-nc1>.    
 
 #### 📱 iOS Release 📱
 * iOS APP **[Wavey]** : As Planner, Programmer, UI/UX Designer
@@ -32,11 +30,6 @@
 	
 	
   </div>
-
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=commitcomplete&&show_icons=true&theme=cobalt)
 
