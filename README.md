@@ -5,8 +5,10 @@
 
 ### 🍎 **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
 #### iOS Project
-* iOS APP **[----]** : As Planner, Programmer, UI/UX Designer, SFX Designer
-* VISIT: <링크>.   
+* iOS APP **[OurRepo]** : As Planner, Programmer, UI/UX Designer, SFX Designer
+* VISIT: <https://github.com/commitcomplete/OurRepo-nc1>.   
+* iOS APP **[OurRepo]** : As Planner, Programmer, UI/UX Designer, SFX Designer
+* VISIT: <https://github.com/commitcomplete/OurRepo-nc1>.   
 
 #### 📱 iOS Release 📱
 * iOS APP **[Wavey]** : As Planner, Programmer, UI/UX Designer
