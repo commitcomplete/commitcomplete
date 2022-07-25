@@ -11,7 +11,8 @@
 #### 📱 iOS Release 📱
 * iOS APP **[Wavey]** : As Planner, Programmer, UI/UX Designer
 * VISIT: <https://apps.apple.com/kr/app/wavey/id1625809848>
-
+* iOS APP **[Destiny]** : As Planner, Programmer, UI/UX Designer
+* VISIT: <https://apps.apple.com/kr/app/destiny/id1636020104>
 
 ### 📚 Konkuk University
 #### **Mobile Programming (2021.03. ~ 2021.06)**
