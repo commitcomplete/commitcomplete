@@ -8,6 +8,8 @@
 * VISIT: <https://apps.apple.com/kr/app/destiny/id1636020104>
 * iOS APP **[Apillog]** : As Planner, Programmer, UI/UX Designer
 * VISIT: <https://apps.apple.com/kr/app/apillog/id1636467512>
+* iOS APP **[Big-Face]** : As Planner, Programmer, UI/UX Designer
+* VISIT: <https://apps.apple.com/kr/app/big-face/id1642758195>
 
 ---
 #### <div align = right> Contact at: oneblue14@gmail.com</div>
