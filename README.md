@@ -18,6 +18,9 @@
  #### TEAM Var-Code
 * iOS APP **[Apillog]** : As Planner, Programmer, UI/UX Designer
 * VISIT: <https://apps.apple.com/kr/app/apillog/id1636467512>
+ #### TEAM 8bit
+* iOS APP **[OrrRock]** : As Planner, Programmer
+* VISIT: <https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-8bit>
  #### TEAM Mega-Pig
 * iOS APP **[Diet-Light]** : As Planner, Programmer
 * VISIT: <https://github.com/commitcomplete/Mega-Pig>
