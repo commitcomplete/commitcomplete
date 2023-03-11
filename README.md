@@ -2,7 +2,7 @@
 ---
 ### <div align= left>🎈 Currently Interested in</div>
 * **iOS, Swift, Java, Kotlin, Python**
-### 🍎 **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
+### 🍎 **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~2022.12.16)**
 
 ### Personal Projects
 * iOS APP **[Cafe!]** : As Planner, Programmer, UI/UX Designer.
