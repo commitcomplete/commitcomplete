@@ -30,7 +30,6 @@
 * iOS APP **[Gabwatni-Cave]** : As Planner, Programmer
 * VISIT: <https://github.com/commitcomplete/MC2-Team14-Gabwatni-Cave>
 ---
-### 📚 Konkuk University
 #### **Mobile Programming (2021.03. ~ 2021.06)**
 * Android App **[Snack]** : As Programmer, PM
 * VISIT: <https://github.com/commitcomplete/MobileProgramming_Snack>
