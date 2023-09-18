@@ -4,18 +4,6 @@
 * **iOS, Swift, C++, Java, Kotlin, Python**
 ### 🍎 **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
 
-### Personal Projects
-* iOS APP **[SageTalk]** : As Planner, Programmer, UI/UX Designer.
-* VISIT: [https://apps.apple.com/kr/app/sagetalk/id6448774918](https://apps.apple.com/kr/app/sagetalk/id6448774918)
-* iOS APP **[Cafe!]** : As Planner, Programmer, UI/UX Designer.
-* VISIT: [https://apps.apple.com/kr/app/cafe!/id6443779233](https://apps.apple.com/kr/app/cafe-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%B9%B4%ED%8E%98/id6443779233)
-* iOS APP **[Wavey]** : As Planner, Programmer, UI/UX Designer
-* VISIT: <https://apps.apple.com/kr/app/wavey/id1625809848>
-* iOS APP **[Big-Face]** : As Planner, Programmer, UI/UX Designer
-* VISIT: <https://apps.apple.com/kr/app/big-face/id1642758195>
-* iOS APP **[Destiny]** : As Planner, Programmer, UI/UX Designer
-* VISIT: <https://apps.apple.com/kr/app/destiny/id1636020104>
-
 ### Team Projects
  #### TEAM Var-Code
 * iOS APP **[Apillog]** : As Planner, Programmer, UI/UX Designer
@@ -30,6 +18,19 @@
 * iOS APP **[Gabwatni-Cave]** : As Planner, Programmer
 * VISIT: <https://github.com/commitcomplete/MC2-Team14-Gabwatni-Cave>
 ---
+
+### Personal Projects
+* iOS APP **[SageTalk]** : As Planner, Programmer, UI/UX Designer.
+* VISIT: [https://apps.apple.com/kr/app/sagetalk/id6448774918](https://apps.apple.com/kr/app/sagetalk/id6448774918)
+* iOS APP **[Cafe!]** : As Planner, Programmer, UI/UX Designer.
+* VISIT: [https://apps.apple.com/kr/app/cafe!/id6443779233](https://apps.apple.com/kr/app/cafe-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%B9%B4%ED%8E%98/id6443779233)
+* iOS APP **[Wavey]** : As Planner, Programmer, UI/UX Designer
+* VISIT: <https://apps.apple.com/kr/app/wavey/id1625809848>
+* iOS APP **[Big-Face]** : As Planner, Programmer, UI/UX Designer
+* VISIT: <https://apps.apple.com/kr/app/big-face/id1642758195>
+* iOS APP **[Destiny]** : As Planner, Programmer, UI/UX Designer
+* VISIT: <https://apps.apple.com/kr/app/destiny/id1636020104>
+
 #### **Mobile Programming (2021.03. ~ 2021.06)**
 * Android App **[Snack]** : As Programmer, PM
 * VISIT: <https://github.com/commitcomplete/MobileProgramming_Snack>
